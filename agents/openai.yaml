@@ -1,0 +1,4 @@
+interface:
+  display_name: "人物转 Sofubi 包装"
+  short_description: "把人物照片转成三种可选 Sofubi、蜡笔插画和包装产品照"
+  default_prompt: "使用 $portrait-to-sofubi-package，把我上传的人物照片抠图后让我选择粉色素体、青色素体或 dehara，再生成玩具、蜡笔插画和包装产品照。"
