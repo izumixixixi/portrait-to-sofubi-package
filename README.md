@@ -2,7 +2,7 @@
 
 A Codex skill that turns one full-body portrait into a coordinated sofubi release:
 
-1. a selectable pink blank, cyan blank, or painted dehara-style sofubi toy;
+1. a selectable pink blank, cyan blank, or 手捏彩绘风 sofubi toy;
 2. a rough crayon chibi illustration;
 3. a clear-bag packaged product photo with a generated Japanese header-card title.
 
@@ -27,7 +27,7 @@ Upload one person photo and ask:
 The skill checks whether a complete head-to-feet person is visible, creates and shows a transparent cutout, then pauses for a choice:
 
 ```text
-粉色素体 / 青色素体 / dehara
+粉色素体 / 青色素体 / 手捏彩绘风
 ```
 
 ## Outputs
@@ -43,6 +43,6 @@ Each run creates a new workspace folder containing:
 
 ## Reference assets
 
-The packaged skill keeps a compact set of nine reference images: one pink material reference, one cyan material board, five user-selected dehara references (`01`, `02`, `04`, `10`, `11`), one crayon illustration reference, and one header-card typography/layout reference.
+The packaged skill keeps a compact set of nine reference images: one pink material reference, one cyan material board, five hand-painted sculpted references (`01`, `02`, `04`, `10`, `11`), one crayon illustration reference, and one header-card typography/layout reference.
 
 Reference images guide material, construction, or drawing language only. The uploaded portrait remains the sole authority for the person's pose, outfit, accessories, and character-specific content.

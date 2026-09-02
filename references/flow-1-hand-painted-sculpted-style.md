@@ -1,10 +1,10 @@
-# Flow 1 Variant — dehara (Painted Clay-Sculpt Sofubi)
+# Flow 1 Variant — 手捏彩绘风 (Hand-Painted Sculpted Sofubi)
 
-Use this variant only after the user selects **dehara**. The label names this option in the workflow; the output must be an original person-based toy built from the visual construction rules below, not a copy of any reference character or an artist signature.
+Use this variant only after the user selects **手捏彩绘风** and the workflow records `toy_variant = hand-painted-sculpted`. The label names this option in the workflow; the output must be an original person-based toy built from the visual construction rules below, not a copy of any reference character or an artist signature.
 
 ## Selected references and generation roles
 
-Before generation, inspect these five user-selected references: `flow-1-dehara-reference-01.png`, `02`, `04`, `10`, and `11`. Study only person-shaped toys. They are a style library, never person-content sources.
+Before generation, inspect these five user-selected references: `flow-1-hand-painted-sculpted-reference-01.png`, `02`, `04`, `10`, and `11`. Study only person-shaped toys. They are a style library, never person-content sources.
 
 The built-in image tool accepts at most five image paths. Reserve one path for the accepted person cutout and pass at most four of the selected references. Prioritize 01 and 11, then choose the two references among 02, 04, and 10 that best clarify the source person's proportions and gesture. Use any unpassed selected image only for understanding and QA.
 
@@ -86,7 +86,7 @@ The underlying object is real hollow soft vinyl:
 - strong specular response over both base vinyl and painted areas; small paint regions may vary slightly, but the whole object remains glossy
 - clean studio reflections and soft form shadows that expose the rough geometry; never matte, chalky, powdery, dry, ceramic, or raw-clay looking
 
-Do not use the uniform single-color blank treatment of the pink/cyan variants. The dehara result must feel coarsely hand-sculpted and hand-painted **under a strong glossy sofubi finish**. Gloss is not optional and must not smooth away the sculpt's rough, lumpy shape.
+Do not use the uniform single-color blank treatment of the pink/cyan variants. The hand-painted sculpted result must feel coarsely hand-sculpted and hand-painted **under a strong glossy sofubi finish**. Gloss is not optional and must not smooth away the sculpt's rough, lumpy shape.
 
 ## Presentation and acceptance
 

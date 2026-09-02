@@ -6,7 +6,7 @@ Use the uploaded images as follows:
 - Image B = my sofubi / toy image, to be used as the main toy inside the package
 - Image C = the packaging reference image, to be used only as a reference for the packaging structure, retail presentation, framing, and product-photo feel
 
-The toy's selected `toy_variant` is already established by Image B: bubblegum-pink monochrome blank, turquoise-cyan monochrome blank, or dehara painted clay-sculpt sofubi. Preserve Image B's exact variant-specific appearance. Never recolor it or default it back to pink. For dehara, preserve every painted color block, coarse asymmetric sculpt contour, bold toy-mask face, strong glossy sofubi highlight, and visible shoulder swivel seam.
+The toy's selected `toy_variant` is already established by Image B: `pink` for a bubblegum-pink monochrome blank, `cyan` for a turquoise-cyan monochrome blank, or `hand-painted-sculpted` for 手捏彩绘风 sofubi. Preserve Image B's exact variant-specific appearance. Never recolor it or default it back to pink. For `hand-painted-sculpted`, preserve every painted color block, coarse asymmetric sculpt contour, bold toy-mask face, strong glossy sofubi highlight, and visible shoulder swivel seam.
 
 The Japanese main title was generated from the user's original photo and is already embedded in Image A as `main_title_ja`. Preserve the exact visible Japanese character sequence from Image A; never replace it with a fixed or generic title. The subtitle remains exact `HANDMADE SOFUBI`.
 
@@ -148,7 +148,7 @@ Preserve the toy’s:
 - boot shapes
 - hood shape
 - exact variant-specific soft-vinyl material and gloss
-- exact monochrome blank color or exact dehara painted color treatment shown in Image B
+- exact monochrome blank color or exact hand-painted sculpted color treatment shown in Image B
 - identity as a sofubi / art toy
 
 The toy should look like the same real physical object from Image B, now placed inside the plastic bag.
@@ -161,7 +161,7 @@ Do not turn the toy into an illustration.
 
 Do not make it look like a flat printed image inside the bag.
 
-The toy should remain a three-dimensional glossy vinyl object. A dehara toy must keep its rough clay-master geometry under the gloss rather than becoming smooth, matte, or raw clay.
+The toy should remain a three-dimensional glossy vinyl object. A hand-painted sculpted toy must keep its rough clay-master geometry under the gloss rather than becoming smooth, matte, or raw clay.
 
 ## Toy Placement Inside the Bag
 
@@ -183,7 +183,7 @@ Do not cover important parts of the face or silhouette with excessive plastic fo
 
 ## Material Realism
 
-The sofubi toy should retain the exact glossy vinyl / soft-vinyl material appearance of Image B. For dehara, bright reflections must remain readable across both coarse sculpted bumps and painted boundaries.
+The sofubi toy should retain the exact glossy vinyl / soft-vinyl material appearance of Image B. For `hand-painted-sculpted`, bright reflections must remain readable across both coarse sculpted bumps and painted boundaries.
 
 Use realistic:
 
@@ -335,7 +335,7 @@ Do not generate:
 
 ## Final Image Direction
 
-Create a believable studio product photograph of my exact glossy sofubi toy from Image B, sealed inside a thin, slightly wrinkled transparent plastic bag, with the completed artwork from Image A reproduced unchanged on a printed stapled header card. The printed card must keep the exact generated Japanese `main_title_ja` visible in Image A and exact `HANDMADE SOFUBI` on the left and the rough-crayon person on the right. Preserve Image B's exact variant: bubblegum-pink monochrome, turquoise-cyan monochrome, or dehara with its saturated hand-painted blocks, coarse clay-master geometry, bold toy-mask face, shoulder seams, and strong glossy soft-vinyl response.
+Create a believable studio product photograph of my exact glossy sofubi toy from Image B, sealed inside a thin, slightly wrinkled transparent plastic bag, with the completed artwork from Image A reproduced unchanged on a printed stapled header card. The printed card must keep the exact generated Japanese `main_title_ja` visible in Image A and exact `HANDMADE SOFUBI` on the left and the rough-crayon person on the right. Preserve Image B's exact variant: bubblegum-pink monochrome, turquoise-cyan monochrome, or `hand-painted-sculpted` with its saturated hand-painted blocks, coarse clay-master geometry, bold toy-mask face, shoulder seams, and strong glossy soft-vinyl response.
 
 The entire packaged product is lying flat on a clean white tabletop and photographed from a top-down or slightly angled overhead camera position.
 
